@@ -19,8 +19,13 @@
         
         <div class="bg-slate-800 rounded-2xl p-6 w-full shadow-2xl border border-slate-700 flex flex-col items-center min-h-[320px] justify-center">
             <img id="jugador-foto" src="https://via.placeholder.com/260x190?text=Cargando..." alt="Jugador" class="w-48 h-auto object-contain drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)] mb-4">
-            <h2 id="jugador-nombre" class="text-2xl font-black text-center tracking-wide">Cargando jugador...</h2>
             
+            <div class="text-center mb-1">
+                <span id="jugador-temporada" class="text-[10px] font-bold text-orange-400 tracking-widest uppercase bg-slate-900/60 px-2.5 py-0.5 rounded-full inline-block mb-1 border border-slate-700">
+                    —
+                </span>
+                <h2 id="jugador-nombre" class="text-2xl font-black tracking-wide">Cargando jugador...</h2>
+            </div>
             <div id="stats-contenedor" class="hidden mt-4 w-full grid grid-cols-4 gap-2 text-center bg-slate-900 p-3 rounded-xl text-xs">
                 <div><p class="text-slate-400">POS</p><p id="stat-pos" class="font-bold text-sm text-orange-400">-</p></div>
                 <div><p class="text-slate-400">PTS</p><p id="stat-pts" class="font-bold text-sm">-</p></div>
@@ -30,7 +35,7 @@
         </div>
 
         <div id="opciones-container" class="w-full grid grid-cols-2 gap-3">
-            </div>
+        </div>
 
         <button id="btn-siguiente" class="hidden w-full bg-orange-500 hover:bg-orange-600 active:scale-95 transition text-white font-bold py-3 rounded-xl shadow-lg">
             Siguiente Jugador →

@@ -34,6 +34,9 @@ function siguientePregunta() {
     document.getElementById('stats-contenedor').classList.add('hidden');
     document.getElementById('btn-siguiente').classList.add('hidden');
     
+    // Resetear el texto de la temporada para el nuevo jugador
+    document.getElementById('jugador-temporada').innerText = "—";
+    
     // Elegir jugador aleatorio
     jugadorActual = jugadores[Math.floor(Math.random() * jugadores.length)];
     
@@ -88,6 +91,13 @@ function verificarRespuesta(botonSeleccionado, equipoSeleccionado) {
     
     // Actualizar marcador de racha
     document.getElementById('racha').innerText = rachaActual;
+    
+    // Mostrar la temporada de los datos en el elemento HTML
+    if (jugadorActual.temporada) {
+        document.getElementById('jugador-temporada').innerText = `STATS TEMP. ${jugadorActual.temporada}`;
+    } else {
+        document.getElementById('jugador-temporada').innerText = "STATS DISPONIBLES";
+    }
     
     // Mostrar estadísticas del jugador
     document.getElementById('stat-pos').innerText = jugadorActual.posicion;
