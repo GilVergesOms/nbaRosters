@@ -1,0 +1,5918 @@
+[
+    {
+        "id": 1630173,
+        "nombre": "Precious Achiuwa",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630173.png",
+        "stats": {
+            "PTS": 10.1,
+            "REB": 6.7,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 203500,
+        "nombre": "Steven Adams",
+        "equipo": "Houston Rockets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 8.6,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1628389,
+        "nombre": "Bam Adebayo",
+        "equipo": "Miami Heat",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png",
+        "stats": {
+            "PTS": 20.1,
+            "REB": 10.0,
+            "AST": 3.2
+        }
+    },
+    {
+        "id": 1630534,
+        "nombre": "Ochai Agbaji",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630534.png",
+        "stats": {
+            "PTS": 5.1,
+            "REB": 2.3,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1630583,
+        "nombre": "Santi Aldama",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png",
+        "stats": {
+            "PTS": 14.0,
+            "REB": 6.7,
+            "AST": 2.9
+        }
+    },
+    {
+        "id": 1641725,
+        "nombre": "Trey Alexander",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641725.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 1.2,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629638,
+        "nombre": "Nickeil Alexander-Walker",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png",
+        "stats": {
+            "PTS": 20.8,
+            "REB": 3.4,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1628960,
+        "nombre": "Grayson Allen",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png",
+        "stats": {
+            "PTS": 16.5,
+            "REB": 3.0,
+            "AST": 3.8
+        }
+    },
+    {
+        "id": 1628386,
+        "nombre": "Jarrett Allen",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png",
+        "stats": {
+            "PTS": 15.4,
+            "REB": 8.5,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1630631,
+        "nombre": "Jose Alvarado",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 2.5,
+            "AST": 3.4
+        }
+    },
+    {
+        "id": 203937,
+        "nombre": "Kyle Anderson",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png",
+        "stats": {
+            "PTS": 6.2,
+            "REB": 3.5,
+            "AST": 2.9
+        }
+    },
+    {
+        "id": 1630828,
+        "nombre": "Alex Antetokounmpo",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630828.png",
+        "stats": {
+            "PTS": 3.2,
+            "REB": 1.0,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 203507,
+        "nombre": "Giannis Antetokounmpo",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png",
+        "stats": {
+            "PTS": 27.6,
+            "REB": 9.8,
+            "AST": 5.4
+        }
+    },
+    {
+        "id": 203648,
+        "nombre": "Thanasis Antetokounmpo",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203648.png",
+        "stats": {
+            "PTS": 1.4,
+            "REB": 0.9,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1628384,
+        "nombre": "OG Anunoby",
+        "equipo": "New York Knicks",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
+        "stats": {
+            "PTS": 16.7,
+            "REB": 5.2,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1630166,
+        "nombre": "Deni Avdija",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630166.png",
+        "stats": {
+            "PTS": 24.2,
+            "REB": 6.9,
+            "AST": 6.7
+        }
+    },
+    {
+        "id": 1629028,
+        "nombre": "Deandre Ayton",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png",
+        "stats": {
+            "PTS": 12.5,
+            "REB": 8.0,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1628963,
+        "nombre": "Marvin Bagley III",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
+        "stats": {
+            "PTS": 10.4,
+            "REB": 6.1,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642846,
+        "nombre": "Ace Bailey",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642846.png",
+        "stats": {
+            "PTS": 13.8,
+            "REB": 4.2,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1630163,
+        "nombre": "LaMelo Ball",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630163.png",
+        "stats": {
+            "PTS": 20.1,
+            "REB": 4.8,
+            "AST": 7.1
+        }
+    },
+    {
+        "id": 1631094,
+        "nombre": "Paolo Banchero",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631094.png",
+        "stats": {
+            "PTS": 22.2,
+            "REB": 8.4,
+            "AST": 5.2
+        }
+    },
+    {
+        "id": 1630217,
+        "nombre": "Desmond Bane",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630217.png",
+        "stats": {
+            "PTS": 20.1,
+            "REB": 4.1,
+            "AST": 4.1
+        }
+    },
+    {
+        "id": 1631230,
+        "nombre": "Dominick Barlow",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631230.png",
+        "stats": {
+            "PTS": 7.7,
+            "REB": 4.8,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 203084,
+        "nombre": "Harrison Barnes",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png",
+        "stats": {
+            "PTS": 9.9,
+            "REB": 2.8,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1630567,
+        "nombre": "Scottie Barnes",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630567.png",
+        "stats": {
+            "PTS": 18.1,
+            "REB": 7.5,
+            "AST": 5.9
+        }
+    },
+    {
+        "id": 1642964,
+        "nombre": "Brooks Barnhizer",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642964.png",
+        "stats": {
+            "PTS": 1.7,
+            "REB": 1.9,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1629628,
+        "nombre": "RJ Barrett",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png",
+        "stats": {
+            "PTS": 19.3,
+            "REB": 5.3,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1629646,
+        "nombre": "Charles Bassey",
+        "equipo": "Golden State Warriors",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629646.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 4.4,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1642419,
+        "nombre": "Jamison Battle",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642419.png",
+        "stats": {
+            "PTS": 3.1,
+            "REB": 1.5,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 201587,
+        "nombre": "Nicolas Batum",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png",
+        "stats": {
+            "PTS": 4.0,
+            "REB": 2.5,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 203078,
+        "nombre": "Bradley Beal",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png",
+        "stats": {
+            "PTS": 8.2,
+            "REB": 0.8,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1642866,
+        "nombre": "Joan Beringer",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642866.png",
+        "stats": {
+            "PTS": 3.9,
+            "REB": 2.3,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1630180,
+        "nombre": "Saddiq Bey",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630180.png",
+        "stats": {
+            "PTS": 17.7,
+            "REB": 5.6,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1629048,
+        "nombre": "Goga Bitadze",
+        "equipo": "Orlando Magic",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629048.png",
+        "stats": {
+            "PTS": 5.9,
+            "REB": 5.0,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 202687,
+        "nombre": "Bismack Biyombo",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png",
+        "stats": {
+            "PTS": 0.9,
+            "REB": 1.0,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1641710,
+        "nombre": "Anthony Black",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641710.png",
+        "stats": {
+            "PTS": 15.0,
+            "REB": 3.8,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 203992,
+        "nombre": "Bogdan Bogdanović",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 2.6,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1641737,
+        "nombre": "Adem Bona",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641737.png",
+        "stats": {
+            "PTS": 4.8,
+            "REB": 4.3,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1626164,
+        "nombre": "Devin Booker",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png",
+        "stats": {
+            "PTS": 26.1,
+            "REB": 3.9,
+            "AST": 6.0
+        }
+    },
+    {
+        "id": 1628396,
+        "nombre": "Tony Bradley",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628396.png",
+        "stats": {
+            "PTS": 4.0,
+            "REB": 2.8,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1631128,
+        "nombre": "Christian Braun",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631128.png",
+        "stats": {
+            "PTS": 12.0,
+            "REB": 4.8,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1642886,
+        "nombre": "Koby Brea",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642886.png",
+        "stats": {
+            "PTS": 3.8,
+            "REB": 0.7,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1628969,
+        "nombre": "Mikal Bridges",
+        "equipo": "New York Knicks",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
+        "stats": {
+            "PTS": 14.4,
+            "REB": 3.8,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1628970,
+        "nombre": "Miles Bridges",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
+        "stats": {
+            "PTS": 17.1,
+            "REB": 5.8,
+            "AST": 3.2
+        }
+    },
+    {
+        "id": 1628415,
+        "nombre": "Dillon Brooks",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png",
+        "stats": {
+            "PTS": 20.2,
+            "REB": 3.6,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1641780,
+        "nombre": "Johni Broome",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641780.png",
+        "stats": {
+            "PTS": 0.9,
+            "REB": 1.5,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1628971,
+        "nombre": "Bruce Brown",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png",
+        "stats": {
+            "PTS": 7.9,
+            "REB": 3.9,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1627759,
+        "nombre": "Jaylen Brown",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png",
+        "stats": {
+            "PTS": 28.7,
+            "REB": 6.9,
+            "AST": 5.1
+        }
+    },
+    {
+        "id": 1641738,
+        "nombre": "Kobe Brown",
+        "equipo": "Indiana Pacers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641738.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 3.0,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1628973,
+        "nombre": "Jalen Brunson",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png",
+        "stats": {
+            "PTS": 26.0,
+            "REB": 3.3,
+            "AST": 6.8
+        }
+    },
+    {
+        "id": 1642868,
+        "nombre": "Carter Bryant",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642868.png",
+        "stats": {
+            "PTS": 4.2,
+            "REB": 2.5,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1628418,
+        "nombre": "Thomas Bryant",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png",
+        "stats": {
+            "PTS": 6.2,
+            "REB": 3.4,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 202710,
+        "nombre": "Jimmy Butler III",
+        "equipo": "Golden State Warriors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png",
+        "stats": {
+            "PTS": 20.0,
+            "REB": 5.6,
+            "AST": 4.9
+        }
+    },
+    {
+        "id": 1641824,
+        "nombre": "Matas Buzelis",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641824.png",
+        "stats": {
+            "PTS": 16.3,
+            "REB": 5.8,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1631288,
+        "nombre": "Jamal Cain",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631288.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 1.9,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 203484,
+        "nombre": "Kentavious Caldwell-Pope",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png",
+        "stats": {
+            "PTS": 8.4,
+            "REB": 2.5,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1641739,
+        "nombre": "Toumani Camara",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641739.png",
+        "stats": {
+            "PTS": 13.4,
+            "REB": 5.1,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 203991,
+        "nombre": "Clint Capela",
+        "equipo": "Houston Rockets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+        "stats": {
+            "PTS": 3.8,
+            "REB": 4.6,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1642928,
+        "nombre": "Dylan Cardwell",
+        "equipo": "Sacramento Kings",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642928.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 7.5,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642382,
+        "nombre": "Branden Carlson",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642382.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 3.0,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1642267,
+        "nombre": "Bub Carrington",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642267.png",
+        "stats": {
+            "PTS": 10.7,
+            "REB": 3.4,
+            "AST": 4.6
+        }
+    },
+    {
+        "id": 1642269,
+        "nombre": "Devin Carter",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642269.png",
+        "stats": {
+            "PTS": 8.9,
+            "REB": 3.3,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1628975,
+        "nombre": "Jevon Carter",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png",
+        "stats": {
+            "PTS": 6.4,
+            "REB": 1.7,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1628976,
+        "nombre": "Wendell Carter Jr.",
+        "equipo": "Orlando Magic",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
+        "stats": {
+            "PTS": 11.8,
+            "REB": 7.4,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1627936,
+        "nombre": "Alex Caruso",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png",
+        "stats": {
+            "PTS": 6.2,
+            "REB": 2.8,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1642264,
+        "nombre": "Stephon Castle",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642264.png",
+        "stats": {
+            "PTS": 16.7,
+            "REB": 5.3,
+            "AST": 7.4
+        }
+    },
+    {
+        "id": 1630658,
+        "nombre": "Colin Castleton",
+        "equipo": "Orlando Magic",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630658.png",
+        "stats": {
+            "PTS": 1.2,
+            "REB": 2.0,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1630577,
+        "nombre": "Julian Champagnie",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630577.png",
+        "stats": {
+            "PTS": 11.1,
+            "REB": 5.8,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630551,
+        "nombre": "Justin Champagnie",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630551.png",
+        "stats": {
+            "PTS": 8.7,
+            "REB": 5.6,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1642353,
+        "nombre": "Cam Christie",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642353.png",
+        "stats": {
+            "PTS": 2.8,
+            "REB": 1.4,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1631108,
+        "nombre": "Max Christie",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631108.png",
+        "stats": {
+            "PTS": 12.3,
+            "REB": 3.2,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1630619,
+        "nombre": "Moussa Cisse",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630619.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 5.7,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1631321,
+        "nombre": "Sidy Cissoko",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631321.png",
+        "stats": {
+            "PTS": 5.1,
+            "REB": 2.2,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1641740,
+        "nombre": "Jaylen Clark",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641740.png",
+        "stats": {
+            "PTS": 4.0,
+            "REB": 1.8,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1629634,
+        "nombre": "Brandon Clarke",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png",
+        "stats": {
+            "PTS": 4.0,
+            "REB": 3.0,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 203903,
+        "nombre": "Jordan Clarkson",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png",
+        "stats": {
+            "PTS": 8.6,
+            "REB": 1.8,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1629651,
+        "nombre": "Nic Claxton",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629651.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 6.9,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1642383,
+        "nombre": "Walter Clayton Jr.",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642383.png",
+        "stats": {
+            "PTS": 7.8,
+            "REB": 2.0,
+            "AST": 4.0
+        }
+    },
+    {
+        "id": 1642363,
+        "nombre": "Nique Clifford",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642363.png",
+        "stats": {
+            "PTS": 8.6,
+            "REB": 3.8,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1642270,
+        "nombre": "Donovan Clingan",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642270.png",
+        "stats": {
+            "PTS": 12.1,
+            "REB": 11.6,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1641730,
+        "nombre": "Noah Clowney",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641730.png",
+        "stats": {
+            "PTS": 12.3,
+            "REB": 4.1,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1629599,
+        "nombre": "Amir Coffey",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629599.png",
+        "stats": {
+            "PTS": 3.2,
+            "REB": 1.2,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1642268,
+        "nombre": "Isaiah Collier",
+        "equipo": "Utah Jazz",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642268.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 2.5,
+            "AST": 7.2
+        }
+    },
+    {
+        "id": 1628381,
+        "nombre": "John Collins",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+        "stats": {
+            "PTS": 13.6,
+            "REB": 5.3,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1628380,
+        "nombre": "Zach Collins",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png",
+        "stats": {
+            "PTS": 9.7,
+            "REB": 5.6,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 201144,
+        "nombre": "Mike Conley",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 1.7,
+            "AST": 2.9
+        }
+    },
+    {
+        "id": 1626192,
+        "nombre": "Pat Connaughton",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png",
+        "stats": {
+            "PTS": 2.6,
+            "REB": 1.5,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1630536,
+        "nombre": "Sharife Cooper",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630536.png",
+        "stats": {
+            "PTS": 8.1,
+            "REB": 2.1,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1641731,
+        "nombre": "Bilal Coulibaly",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641731.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 4.3,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1642907,
+        "nombre": "Cedric Coward",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642907.png",
+        "stats": {
+            "PTS": 13.6,
+            "REB": 5.9,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1642384,
+        "nombre": "Isaiah Crawford",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642384.png",
+        "stats": {
+            "PTS": 2.0,
+            "REB": 1.1,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1630595,
+        "nombre": "Cade Cunningham",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630595.png",
+        "stats": {
+            "PTS": 23.9,
+            "REB": 5.5,
+            "AST": 9.9
+        }
+    },
+    {
+        "id": 201939,
+        "nombre": "Stephen Curry",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
+        "stats": {
+            "PTS": 26.6,
+            "REB": 3.6,
+            "AST": 4.7
+        }
+    },
+    {
+        "id": 1642359,
+        "nombre": "Pacôme Dadiet",
+        "equipo": "New York Knicks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642359.png",
+        "stats": {
+            "PTS": 1.7,
+            "REB": 0.9,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1630700,
+        "nombre": "Dyson Daniels",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630700.png",
+        "stats": {
+            "PTS": 11.9,
+            "REB": 6.8,
+            "AST": 5.9
+        }
+    },
+    {
+        "id": 203076,
+        "nombre": "Anthony Davis",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png",
+        "stats": {
+            "PTS": 20.4,
+            "REB": 11.1,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1631120,
+        "nombre": "JD Davison",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631120.png",
+        "stats": {
+            "PTS": 2.5,
+            "REB": 1.2,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 201942,
+        "nombre": "DeMar DeRozan",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
+        "stats": {
+            "PTS": 18.4,
+            "REB": 2.9,
+            "AST": 4.1
+        }
+    },
+    {
+        "id": 1642484,
+        "nombre": "RayJ Dennis",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642484.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 1.5,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1628978,
+        "nombre": "Donte DiVincenzo",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png",
+        "stats": {
+            "PTS": 12.2,
+            "REB": 4.1,
+            "AST": 3.8
+        }
+    },
+    {
+        "id": 1631217,
+        "nombre": "Moussa Diabaté",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631217.png",
+        "stats": {
+            "PTS": 7.9,
+            "REB": 8.7,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1642885,
+        "nombre": "Mohamed Diawara",
+        "equipo": "New York Knicks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642885.png",
+        "stats": {
+            "PTS": 3.6,
+            "REB": 1.4,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1641711,
+        "nombre": "Gradey Dick",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641711.png",
+        "stats": {
+            "PTS": 6.0,
+            "REB": 1.9,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1630621,
+        "nombre": "Hunter Dickinson",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630621.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 1.0,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1631172,
+        "nombre": "Ousmane Dieng",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631172.png",
+        "stats": {
+            "PTS": 7.6,
+            "REB": 3.2,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1642265,
+        "nombre": "Rob Dillingham",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642265.png",
+        "stats": {
+            "PTS": 6.3,
+            "REB": 2.0,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1629029,
+        "nombre": "Luka Dončić",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png",
+        "stats": {
+            "PTS": 33.5,
+            "REB": 7.7,
+            "AST": 8.3
+        }
+    },
+    {
+        "id": 1629652,
+        "nombre": "Luguentz Dort",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629652.png",
+        "stats": {
+            "PTS": 8.3,
+            "REB": 3.6,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1630245,
+        "nombre": "Ayo Dosunmu",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630245.png",
+        "stats": {
+            "PTS": 14.8,
+            "REB": 3.4,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 203083,
+        "nombre": "Andre Drummond",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png",
+        "stats": {
+            "PTS": 6.4,
+            "REB": 8.4,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1627739,
+        "nombre": "Kris Dunn",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png",
+        "stats": {
+            "PTS": 7.3,
+            "REB": 3.3,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 1642346,
+        "nombre": "Ryan Dunn",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642346.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 4.2,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 201142,
+        "nombre": "Kevin Durant",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
+        "stats": {
+            "PTS": 26.0,
+            "REB": 5.5,
+            "AST": 4.8
+        }
+    },
+    {
+        "id": 1631105,
+        "nombre": "Jalen Duren",
+        "equipo": "Detroit Pistons",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631105.png",
+        "stats": {
+            "PTS": 19.5,
+            "REB": 10.5,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1642856,
+        "nombre": "Egor Dëmin",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642856.png",
+        "stats": {
+            "PTS": 10.3,
+            "REB": 3.2,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1631106,
+        "nombre": "Tari Eason",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631106.png",
+        "stats": {
+            "PTS": 10.4,
+            "REB": 6.3,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1641744,
+        "nombre": "Zach Edey",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641744.png",
+        "stats": {
+            "PTS": 13.6,
+            "REB": 11.1,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1642845,
+        "nombre": "VJ Edgecombe",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642845.png",
+        "stats": {
+            "PTS": 16.0,
+            "REB": 5.6,
+            "AST": 4.2
+        }
+    },
+    {
+        "id": 1630162,
+        "nombre": "Anthony Edwards",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630162.png",
+        "stats": {
+            "PTS": 28.8,
+            "REB": 5.0,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1642348,
+        "nombre": "Justin Edwards",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642348.png",
+        "stats": {
+            "PTS": 6.0,
+            "REB": 1.5,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1631165,
+        "nombre": "Keon Ellis",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631165.png",
+        "stats": {
+            "PTS": 6.7,
+            "REB": 1.9,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 203954,
+        "nombre": "Joel Embiid",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
+        "stats": {
+            "PTS": 26.9,
+            "REB": 7.7,
+            "AST": 3.9
+        }
+    },
+    {
+        "id": 1642855,
+        "nombre": "Noa Essengue",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642855.png",
+        "stats": {
+            "PTS": 0.0,
+            "REB": 0.0,
+            "AST": 0.0
+        }
+    },
+    {
+        "id": 1630623,
+        "nombre": "Tyson Etienne",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630623.png",
+        "stats": {
+            "PTS": 7.9,
+            "REB": 1.1,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1629234,
+        "nombre": "Drew Eubanks",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 3.0,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1641787,
+        "nombre": "Tosan Evbuomwan",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641787.png",
+        "stats": {
+            "PTS": 0.0,
+            "REB": 0.4,
+            "AST": 0.0
+        }
+    },
+    {
+        "id": 203957,
+        "nombre": "Danté Exum",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203957.png",
+        "stats": {
+            "PTS": 8.7,
+            "REB": 1.6,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1642847,
+        "nombre": "Jeremiah Fears",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642847.png",
+        "stats": {
+            "PTS": 14.3,
+            "REB": 3.7,
+            "AST": 3.4
+        }
+    },
+    {
+        "id": 1642271,
+        "nombre": "Kyle Filipowski",
+        "equipo": "Utah Jazz",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642271.png",
+        "stats": {
+            "PTS": 11.4,
+            "REB": 7.2,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1627827,
+        "nombre": "Dorian Finney-Smith",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png",
+        "stats": {
+            "PTS": 3.3,
+            "REB": 2.5,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1642843,
+        "nombre": "Cooper Flagg",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642843.png",
+        "stats": {
+            "PTS": 21.0,
+            "REB": 6.7,
+            "AST": 4.5
+        }
+    },
+    {
+        "id": 1642853,
+        "nombre": "Rasheer Fleming",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642853.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 2.3,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1631323,
+        "nombre": "Simone Fontecchio",
+        "equipo": "Miami Heat",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631323.png",
+        "stats": {
+            "PTS": 8.5,
+            "REB": 3.0,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1628368,
+        "nombre": "De'Aaron Fox",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
+        "stats": {
+            "PTS": 18.6,
+            "REB": 3.8,
+            "AST": 6.2
+        }
+    },
+    {
+        "id": 1642402,
+        "nombre": "Enrique Freeman",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642402.png",
+        "stats": {
+            "PTS": 3.2,
+            "REB": 2.5,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1642277,
+        "nombre": "Johnny Furphy",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642277.png",
+        "stats": {
+            "PTS": 5.1,
+            "REB": 4.4,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1629655,
+        "nombre": "Daniel Gafford",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629655.png",
+        "stats": {
+            "PTS": 9.5,
+            "REB": 6.9,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1642066,
+        "nombre": "Myron Gardner",
+        "equipo": "Miami Heat",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642066.png",
+        "stats": {
+            "PTS": 3.6,
+            "REB": 2.7,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629636,
+        "nombre": "Darius Garland",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png",
+        "stats": {
+            "PTS": 18.8,
+            "REB": 2.4,
+            "AST": 6.7
+        }
+    },
+    {
+        "id": 1630568,
+        "nombre": "Luka Garza",
+        "equipo": "Boston Celtics",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630568.png",
+        "stats": {
+            "PTS": 8.1,
+            "REB": 4.1,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1641718,
+        "nombre": "Keyonte George",
+        "equipo": "Utah Jazz",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641718.png",
+        "stats": {
+            "PTS": 23.6,
+            "REB": 3.7,
+            "AST": 6.1
+        }
+    },
+    {
+        "id": 1642273,
+        "nombre": "Kyshawn George",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642273.png",
+        "stats": {
+            "PTS": 14.8,
+            "REB": 5.1,
+            "AST": 4.5
+        }
+    },
+    {
+        "id": 202331,
+        "nombre": "Paul George",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
+        "stats": {
+            "PTS": 17.3,
+            "REB": 5.3,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 1630581,
+        "nombre": "Josh Giddey",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630581.png",
+        "stats": {
+            "PTS": 17.0,
+            "REB": 8.3,
+            "AST": 9.1
+        }
+    },
+    {
+        "id": 1628983,
+        "nombre": "Shai Gilgeous-Alexander",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
+        "stats": {
+            "PTS": 31.1,
+            "REB": 4.3,
+            "AST": 6.6
+        }
+    },
+    {
+        "id": 1630264,
+        "nombre": "Anthony Gill",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630264.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 2.9,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1631221,
+        "nombre": "Collin Gillespie",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631221.png",
+        "stats": {
+            "PTS": 12.7,
+            "REB": 4.1,
+            "AST": 4.6
+        }
+    },
+    {
+        "id": 203497,
+        "nombre": "Rudy Gobert",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png",
+        "stats": {
+            "PTS": 10.9,
+            "REB": 11.5,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1642884,
+        "nombre": "Vladislav Goldin",
+        "equipo": "Miami Heat",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642884.png",
+        "stats": {
+            "PTS": 0.8,
+            "REB": 1.0,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1642864,
+        "nombre": "Hugo González",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642864.png",
+        "stats": {
+            "PTS": 3.9,
+            "REB": 3.3,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1630692,
+        "nombre": "Jordan Goodwin",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630692.png",
+        "stats": {
+            "PTS": 8.7,
+            "REB": 4.9,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 203932,
+        "nombre": "Aaron Gordon",
+        "equipo": "Denver Nuggets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png",
+        "stats": {
+            "PTS": 16.2,
+            "REB": 5.8,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 203924,
+        "nombre": "Jerami Grant",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png",
+        "stats": {
+            "PTS": 18.6,
+            "REB": 3.5,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1631260,
+        "nombre": "AJ Green",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631260.png",
+        "stats": {
+            "PTS": 10.4,
+            "REB": 2.7,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 203110,
+        "nombre": "Draymond Green",
+        "equipo": "Golden State Warriors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png",
+        "stats": {
+            "PTS": 8.4,
+            "REB": 5.5,
+            "AST": 5.5
+        }
+    },
+    {
+        "id": 1630224,
+        "nombre": "Jalen Green",
+        "equipo": "Phoenix Suns",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png",
+        "stats": {
+            "PTS": 17.8,
+            "REB": 3.6,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1629750,
+        "nombre": "Javonte Green",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629750.png",
+        "stats": {
+            "PTS": 6.9,
+            "REB": 2.8,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 201145,
+        "nombre": "Jeff Green",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png",
+        "stats": {
+            "PTS": 2.2,
+            "REB": 0.8,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1630182,
+        "nombre": "Josh Green",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630182.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 1.8,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1629656,
+        "nombre": "Quentin Grimes",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629656.png",
+        "stats": {
+            "PTS": 13.4,
+            "REB": 3.6,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1631243,
+        "nombre": "Mouhamed Gueye",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631243.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 3.6,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1629060,
+        "nombre": "Rui Hachimura",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629060.png",
+        "stats": {
+            "PTS": 11.5,
+            "REB": 3.3,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1630169,
+        "nombre": "Tyrese Haliburton",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630169.png",
+        "stats": {
+            "PTS": 18.6,
+            "REB": 3.5,
+            "AST": 9.2
+        }
+    },
+    {
+        "id": 1641790,
+        "nombre": "PJ Hall",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641790.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 3.9,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 203501,
+        "nombre": "Tim Hardaway Jr.",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png",
+        "stats": {
+            "PTS": 13.5,
+            "REB": 2.6,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 201935,
+        "nombre": "James Harden",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png",
+        "stats": {
+            "PTS": 23.6,
+            "REB": 4.8,
+            "AST": 8.0
+        }
+    },
+    {
+        "id": 1630702,
+        "nombre": "Jaden Hardy",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630702.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 1.5,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1641989,
+        "nombre": "Elijah Harkless",
+        "equipo": "Utah Jazz",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641989.png",
+        "stats": {
+            "PTS": 6.8,
+            "REB": 2.0,
+            "AST": 2.9
+        }
+    },
+    {
+        "id": 1642844,
+        "nombre": "Dylan Harper",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642844.png",
+        "stats": {
+            "PTS": 11.8,
+            "REB": 3.4,
+            "AST": 3.9
+        }
+    },
+    {
+        "id": 1631199,
+        "nombre": "Ron Harper Jr.",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631199.png",
+        "stats": {
+            "PTS": 4.2,
+            "REB": 1.7,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 203914,
+        "nombre": "Gary Harris",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
+        "stats": {
+            "PTS": 2.7,
+            "REB": 1.3,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1630284,
+        "nombre": "Kevon Harris",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630284.png",
+        "stats": {
+            "PTS": 2.0,
+            "REB": 1.0,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 202699,
+        "nombre": "Tobias Harris",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png",
+        "stats": {
+            "PTS": 13.3,
+            "REB": 5.1,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1628404,
+        "nombre": "Josh Hart",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png",
+        "stats": {
+            "PTS": 12.0,
+            "REB": 7.4,
+            "AST": 4.8
+        }
+    },
+    {
+        "id": 1628392,
+        "nombre": "Isaiah Hartenstein",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628392.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 9.4,
+            "AST": 3.5
+        }
+    },
+    {
+        "id": 1630573,
+        "nombre": "Sam Hauser",
+        "equipo": "Boston Celtics",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630573.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 3.8,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1641722,
+        "nombre": "Jordan Hawkins",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641722.png",
+        "stats": {
+            "PTS": 5.1,
+            "REB": 1.7,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1629637,
+        "nombre": "Jaxson Hayes",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629637.png",
+        "stats": {
+            "PTS": 7.5,
+            "REB": 4.1,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1630703,
+        "nombre": "Scoot Henderson",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630703.png",
+        "stats": {
+            "PTS": 14.2,
+            "REB": 2.7,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1641707,
+        "nombre": "Taylor Hendricks",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641707.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 3.7,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642935,
+        "nombre": "Chucky Hepburn",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642935.png",
+        "stats": {
+            "PTS": 0.0,
+            "REB": 0.5,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629639,
+        "nombre": "Tyler Herro",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png",
+        "stats": {
+            "PTS": 20.5,
+            "REB": 4.8,
+            "AST": 4.1
+        }
+    },
+    {
+        "id": 1627741,
+        "nombre": "Buddy Hield",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
+        "stats": {
+            "PTS": 7.6,
+            "REB": 2.3,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1629312,
+        "nombre": "Haywood Highsmith",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629312.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 1.9,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1628988,
+        "nombre": "Aaron Holiday",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png",
+        "stats": {
+            "PTS": 5.5,
+            "REB": 1.0,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 201950,
+        "nombre": "Jrue Holiday",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png",
+        "stats": {
+            "PTS": 16.3,
+            "REB": 4.6,
+            "AST": 6.1
+        }
+    },
+    {
+        "id": 1641842,
+        "nombre": "Ronald Holland II",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641842.png",
+        "stats": {
+            "PTS": 8.2,
+            "REB": 4.0,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1641747,
+        "nombre": "DaRon Holmes II",
+        "equipo": "Denver Nuggets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641747.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 1.4,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1631096,
+        "nombre": "Chet Holmgren",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631096.png",
+        "stats": {
+            "PTS": 17.1,
+            "REB": 8.9,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 201143,
+        "nombre": "Al Horford",
+        "equipo": "Golden State Warriors",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png",
+        "stats": {
+            "PTS": 8.3,
+            "REB": 4.9,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1641724,
+        "nombre": "Jett Howard",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641724.png",
+        "stats": {
+            "PTS": 5.5,
+            "REB": 1.6,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1628989,
+        "nombre": "Kevin Huerter",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+        "stats": {
+            "PTS": 10.0,
+            "REB": 3.5,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1630643,
+        "nombre": "Jay Huff",
+        "equipo": "Indiana Pacers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630643.png",
+        "stats": {
+            "PTS": 9.5,
+            "REB": 4.0,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630574,
+        "nombre": "Ariel Hukporti",
+        "equipo": "New York Knicks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630574.png",
+        "stats": {
+            "PTS": 2.2,
+            "REB": 2.9,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1629631,
+        "nombre": "De'Andre Hunter",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+        "stats": {
+            "PTS": 13.7,
+            "REB": 4.1,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1643047,
+        "nombre": "CJ Huntley",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1643047.png",
+        "stats": {
+            "PTS": 3.0,
+            "REB": 1.2,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1630538,
+        "nombre": "Bones Hyland",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630538.png",
+        "stats": {
+            "PTS": 8.5,
+            "REB": 1.8,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1642345,
+        "nombre": "Oso Ighodaro",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642345.png",
+        "stats": {
+            "PTS": 6.5,
+            "REB": 5.1,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 204060,
+        "nombre": "Joe Ingles",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png",
+        "stats": {
+            "PTS": 1.5,
+            "REB": 0.7,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1627742,
+        "nombre": "Brandon Ingram",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png",
+        "stats": {
+            "PTS": 21.5,
+            "REB": 5.6,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1631127,
+        "nombre": "Harrison Ingram",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631127.png",
+        "stats": {
+            "PTS": 1.6,
+            "REB": 0.4,
+            "AST": 0.1
+        }
+    },
+    {
+        "id": 202681,
+        "nombre": "Kyrie Irving",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
+        "stats": {
+            "PTS": 24.7,
+            "REB": 4.8,
+            "AST": 4.6
+        }
+    },
+    {
+        "id": 1628371,
+        "nombre": "Jonathan Isaac",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png",
+        "stats": {
+            "PTS": 2.6,
+            "REB": 2.5,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1641713,
+        "nombre": "GG Jackson",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641713.png",
+        "stats": {
+            "PTS": 12.5,
+            "REB": 4.3,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630543,
+        "nombre": "Isaiah Jackson",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630543.png",
+        "stats": {
+            "PTS": 6.7,
+            "REB": 5.3,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1631245,
+        "nombre": "Quenton Jackson",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631245.png",
+        "stats": {
+            "PTS": 9.1,
+            "REB": 2.3,
+            "AST": 2.9
+        }
+    },
+    {
+        "id": 1641748,
+        "nombre": "Andre Jackson Jr.",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641748.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 1.5,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1628991,
+        "nombre": "Jaren Jackson Jr.",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
+        "stats": {
+            "PTS": 19.4,
+            "REB": 5.7,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1631218,
+        "nombre": "Trayce Jackson-Davis",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631218.png",
+        "stats": {
+            "PTS": 3.4,
+            "REB": 2.7,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1642857,
+        "nombre": "Kasparas Jakučionis",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642857.png",
+        "stats": {
+            "PTS": 6.2,
+            "REB": 2.6,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1642355,
+        "nombre": "Bronny James",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642355.png",
+        "stats": {
+            "PTS": 2.9,
+            "REB": 0.5,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 2544,
+        "nombre": "LeBron James",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
+        "stats": {
+            "PTS": 20.9,
+            "REB": 6.1,
+            "AST": 7.2
+        }
+    },
+    {
+        "id": 1642883,
+        "nombre": "Sion James",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642883.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 3.5,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1631170,
+        "nombre": "Jaime Jaquez Jr.",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631170.png",
+        "stats": {
+            "PTS": 15.4,
+            "REB": 5.0,
+            "AST": 4.7
+        }
+    },
+    {
+        "id": 1641998,
+        "nombre": "Trey Jemison III",
+        "equipo": "New York Knicks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641998.png",
+        "stats": {
+            "PTS": 1.0,
+            "REB": 1.4,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1642450,
+        "nombre": "Daniss Jenkins",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642450.png",
+        "stats": {
+            "PTS": 9.3,
+            "REB": 2.3,
+            "AST": 3.9
+        }
+    },
+    {
+        "id": 1629660,
+        "nombre": "Ty Jerome",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629660.png",
+        "stats": {
+            "PTS": 19.7,
+            "REB": 2.8,
+            "AST": 5.7
+        }
+    },
+    {
+        "id": 1630198,
+        "nombre": "Isaiah Joe",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630198.png",
+        "stats": {
+            "PTS": 11.1,
+            "REB": 2.5,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1642358,
+        "nombre": "AJ Johnson",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642358.png",
+        "stats": {
+            "PTS": 3.3,
+            "REB": 1.1,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629661,
+        "nombre": "Cameron Johnson",
+        "equipo": "Denver Nuggets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png",
+        "stats": {
+            "PTS": 12.2,
+            "REB": 3.8,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1630552,
+        "nombre": "Jalen Johnson",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630552.png",
+        "stats": {
+            "PTS": 22.5,
+            "REB": 10.3,
+            "AST": 7.9
+        }
+    },
+    {
+        "id": 1629640,
+        "nombre": "Keldon Johnson",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png",
+        "stats": {
+            "PTS": 13.2,
+            "REB": 5.4,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642352,
+        "nombre": "Keshad Johnson",
+        "equipo": "Miami Heat",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642352.png",
+        "stats": {
+            "PTS": 4.2,
+            "REB": 1.9,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1642848,
+        "nombre": "Tre Johnson",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642848.png",
+        "stats": {
+            "PTS": 12.2,
+            "REB": 2.8,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 203999,
+        "nombre": "Nikola Jokić",
+        "equipo": "Denver Nuggets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
+        "stats": {
+            "PTS": 27.7,
+            "REB": 12.9,
+            "AST": 10.7
+        }
+    },
+    {
+        "id": 1642938,
+        "nombre": "Curtis Jones",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642938.png",
+        "stats": {
+            "PTS": 2.9,
+            "REB": 1.1,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1630529,
+        "nombre": "Herbert Jones",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630529.png",
+        "stats": {
+            "PTS": 8.9,
+            "REB": 3.4,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1642403,
+        "nombre": "Isaac Jones",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642403.png",
+        "stats": {
+            "PTS": 1.3,
+            "REB": 0.7,
+            "AST": 0.1
+        }
+    },
+    {
+        "id": 1642880,
+        "nombre": "Kam Jones",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642880.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 1.6,
+            "AST": 3.2
+        }
+    },
+    {
+        "id": 1642461,
+        "nombre": "Spencer Jones",
+        "equipo": "Denver Nuggets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642461.png",
+        "stats": {
+            "PTS": 5.5,
+            "REB": 3.3,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1630200,
+        "nombre": "Tre Jones",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630200.png",
+        "stats": {
+            "PTS": 14.1,
+            "REB": 3.1,
+            "AST": 5.4
+        }
+    },
+    {
+        "id": 1626145,
+        "nombre": "Tyus Jones",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png",
+        "stats": {
+            "PTS": 3.0,
+            "REB": 1.1,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1642357,
+        "nombre": "David Jones Garcia",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642357.png",
+        "stats": {
+            "PTS": 2.9,
+            "REB": 1.2,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1627884,
+        "nombre": "Derrick Jones Jr.",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png",
+        "stats": {
+            "PTS": 10.1,
+            "REB": 3.5,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 201599,
+        "nombre": "DeAndre Jordan",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 6.3,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1631107,
+        "nombre": "Nikola Jović",
+        "equipo": "Miami Heat",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631107.png",
+        "stats": {
+            "PTS": 7.3,
+            "REB": 3.3,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1641750,
+        "nombre": "Ryan Kalkbrenner",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641750.png",
+        "stats": {
+            "PTS": 7.6,
+            "REB": 5.5,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1628379,
+        "nombre": "Luke Kennard",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png",
+        "stats": {
+            "PTS": 8.4,
+            "REB": 2.3,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1631117,
+        "nombre": "Walker Kessler",
+        "equipo": "Utah Jazz",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631117.png",
+        "stats": {
+            "PTS": 14.4,
+            "REB": 10.8,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1630557,
+        "nombre": "Corey Kispert",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630557.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 2.3,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1628467,
+        "nombre": "Maxi Kleber",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png",
+        "stats": {
+            "PTS": 2.0,
+            "REB": 2.0,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1642261,
+        "nombre": "Dalton Knecht",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642261.png",
+        "stats": {
+            "PTS": 4.2,
+            "REB": 1.4,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1642851,
+        "nombre": "Kon Knueppel",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642851.png",
+        "stats": {
+            "PTS": 18.5,
+            "REB": 5.3,
+            "AST": 3.4
+        }
+    },
+    {
+        "id": 1642278,
+        "nombre": "Tyler Kolek",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642278.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 1.6,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1631132,
+        "nombre": "Christian Koloko",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631132.png",
+        "stats": {
+            "PTS": 2.7,
+            "REB": 3.0,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1629723,
+        "nombre": "John Konchar",
+        "equipo": "Utah Jazz",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629723.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 4.3,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1628436,
+        "nombre": "Luke Kornet",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png",
+        "stats": {
+            "PTS": 6.5,
+            "REB": 6.1,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1630249,
+        "nombre": "Vít Krejčí",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630249.png",
+        "stats": {
+            "PTS": 8.5,
+            "REB": 2.3,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630228,
+        "nombre": "Jonathan Kuminga",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630228.png",
+        "stats": {
+            "PTS": 12.2,
+            "REB": 5.6,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1628398,
+        "nombre": "Kyle Kuzma",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png",
+        "stats": {
+            "PTS": 13.0,
+            "REB": 4.5,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1631222,
+        "nombre": "Jake LaRavia",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631222.png",
+        "stats": {
+            "PTS": 8.2,
+            "REB": 4.0,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 203897,
+        "nombre": "Zach LaVine",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
+        "stats": {
+            "PTS": 19.2,
+            "REB": 2.8,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1629111,
+        "nombre": "Jock Landale",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629111.png",
+        "stats": {
+            "PTS": 10.6,
+            "REB": 5.7,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1642404,
+        "nombre": "Chaz Lanier",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642404.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 0.7,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1641796,
+        "nombre": "Pelle Larsson",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641796.png",
+        "stats": {
+            "PTS": 11.4,
+            "REB": 3.5,
+            "AST": 3.4
+        }
+    },
+    {
+        "id": 1630639,
+        "nombre": "A.J. Lawson",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630639.png",
+        "stats": {
+            "PTS": 4.2,
+            "REB": 1.8,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1627747,
+        "nombre": "Caris LeVert",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 1.9,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 202695,
+        "nombre": "Kawhi Leonard",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
+        "stats": {
+            "PTS": 27.9,
+            "REB": 6.4,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 1630604,
+        "nombre": "E.J. Liddell",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630604.png",
+        "stats": {
+            "PTS": 5.7,
+            "REB": 2.7,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 203081,
+        "nombre": "Damian Lillard",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png",
+        "stats": {
+            "PTS": 24.9,
+            "REB": 4.7,
+            "AST": 7.1
+        }
+    },
+    {
+        "id": 1641726,
+        "nombre": "Dereck Lively II",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641726.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 5.3,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1630587,
+        "nombre": "Isaiah Livers",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630587.png",
+        "stats": {
+            "PTS": 1.8,
+            "REB": 1.7,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1626172,
+        "nombre": "Kevon Looney",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
+        "stats": {
+            "PTS": 2.8,
+            "REB": 5.6,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 201572,
+        "nombre": "Brook Lopez",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png",
+        "stats": {
+            "PTS": 8.5,
+            "REB": 3.6,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1631126,
+        "nombre": "Caleb Love",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631126.png",
+        "stats": {
+            "PTS": 10.4,
+            "REB": 2.3,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 201567,
+        "nombre": "Kevin Love",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
+        "stats": {
+            "PTS": 6.7,
+            "REB": 5.8,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 200768,
+        "nombre": "Kyle Lowry",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png",
+        "stats": {
+            "PTS": 1.2,
+            "REB": 0.6,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1642863,
+        "nombre": "Khaman Maluach",
+        "equipo": "Phoenix Suns",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642863.png",
+        "stats": {
+            "PTS": 3.0,
+            "REB": 2.9,
+            "AST": 0.1
+        }
+    },
+    {
+        "id": 1630572,
+        "nombre": "Sandro Mamukelashvili",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630572.png",
+        "stats": {
+            "PTS": 11.2,
+            "REB": 4.9,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1629611,
+        "nombre": "Terance Mann",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629611.png",
+        "stats": {
+            "PTS": 7.2,
+            "REB": 3.2,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1630544,
+        "nombre": "Tre Mann",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630544.png",
+        "stats": {
+            "PTS": 5.5,
+            "REB": 1.7,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1628374,
+        "nombre": "Lauri Markkanen",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png",
+        "stats": {
+            "PTS": 26.7,
+            "REB": 6.9,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1630230,
+        "nombre": "Naji Marshall",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630230.png",
+        "stats": {
+            "PTS": 15.2,
+            "REB": 4.7,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1642918,
+        "nombre": "Alijah Martin",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642918.png",
+        "stats": {
+            "PTS": 2.2,
+            "REB": 0.9,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1628997,
+        "nombre": "Caleb Martin",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628997.png",
+        "stats": {
+            "PTS": 3.9,
+            "REB": 2.5,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1631213,
+        "nombre": "Tyrese Martin",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631213.png",
+        "stats": {
+            "PTS": 6.3,
+            "REB": 2.5,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1631097,
+        "nombre": "Bennedict Mathurin",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631097.png",
+        "stats": {
+            "PTS": 17.6,
+            "REB": 5.4,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1631255,
+        "nombre": "Karlo Matković",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631255.png",
+        "stats": {
+            "PTS": 5.7,
+            "REB": 3.7,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1630178,
+        "nombre": "Tyrese Maxey",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630178.png",
+        "stats": {
+            "PTS": 28.3,
+            "REB": 4.1,
+            "AST": 6.6
+        }
+    },
+    {
+        "id": 1643024,
+        "nombre": "Chris Mañon",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1643024.png",
+        "stats": {
+            "PTS": 0.8,
+            "REB": 1.1,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1630540,
+        "nombre": "Miles McBride",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630540.png",
+        "stats": {
+            "PTS": 12.0,
+            "REB": 2.4,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1642272,
+        "nombre": "Jared McCain",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642272.png",
+        "stats": {
+            "PTS": 8.3,
+            "REB": 2.0,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1630644,
+        "nombre": "Mac McClung",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630644.png",
+        "stats": {
+            "PTS": 6.1,
+            "REB": 0.9,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 203468,
+        "nombre": "CJ McCollum",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png",
+        "stats": {
+            "PTS": 18.7,
+            "REB": 3.3,
+            "AST": 3.9
+        }
+    },
+    {
+        "id": 204456,
+        "nombre": "T.J. McConnell",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
+        "stats": {
+            "PTS": 9.4,
+            "REB": 2.2,
+            "AST": 5.1
+        }
+    },
+    {
+        "id": 1641755,
+        "nombre": "Kevin McCullar Jr.",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641755.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 1.3,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1630183,
+        "nombre": "Jaden McDaniels",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630183.png",
+        "stats": {
+            "PTS": 14.8,
+            "REB": 4.2,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 203926,
+        "nombre": "Doug McDermott",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png",
+        "stats": {
+            "PTS": 5.7,
+            "REB": 1.3,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1631121,
+        "nombre": "Bryce McGowens",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631121.png",
+        "stats": {
+            "PTS": 8.1,
+            "REB": 2.1,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1629162,
+        "nombre": "Jordan McLaughlin",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629162.png",
+        "stats": {
+            "PTS": 2.0,
+            "REB": 0.7,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642862,
+        "nombre": "Liam McNeeley",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642862.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 2.4,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1629001,
+        "nombre": "De'Anthony Melton",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png",
+        "stats": {
+            "PTS": 12.3,
+            "REB": 3.2,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1630241,
+        "nombre": "Sam Merrill",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630241.png",
+        "stats": {
+            "PTS": 12.8,
+            "REB": 2.6,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 203114,
+        "nombre": "Khris Middleton",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png",
+        "stats": {
+            "PTS": 10.2,
+            "REB": 3.7,
+            "AST": 2.8
+        }
+    },
+    {
+        "id": 1641706,
+        "nombre": "Brandon Miller",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641706.png",
+        "stats": {
+            "PTS": 20.2,
+            "REB": 4.9,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1641801,
+        "nombre": "Emanuel Miller",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641801.png",
+        "stats": {
+            "PTS": 3.0,
+            "REB": 0.6,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1641757,
+        "nombre": "Jordan Miller",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641757.png",
+        "stats": {
+            "PTS": 10.0,
+            "REB": 3.0,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1631159,
+        "nombre": "Leonard Miller",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631159.png",
+        "stats": {
+            "PTS": 7.8,
+            "REB": 3.9,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642434,
+        "nombre": "Riley Minix",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642434.png",
+        "stats": {
+            "PTS": 3.9,
+            "REB": 0.7,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1631169,
+        "nombre": "Josh Minott",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631169.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 3.2,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642274,
+        "nombre": "Yves Missi",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642274.png",
+        "stats": {
+            "PTS": 5.7,
+            "REB": 5.8,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1642349,
+        "nombre": "Ajay Mitchell",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642349.png",
+        "stats": {
+            "PTS": 13.6,
+            "REB": 3.3,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 1630558,
+        "nombre": "Davion Mitchell",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630558.png",
+        "stats": {
+            "PTS": 9.3,
+            "REB": 2.7,
+            "AST": 6.5
+        }
+    },
+    {
+        "id": 1628378,
+        "nombre": "Donovan Mitchell",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png",
+        "stats": {
+            "PTS": 27.9,
+            "REB": 4.5,
+            "AST": 5.7
+        }
+    },
+    {
+        "id": 1630596,
+        "nombre": "Evan Mobley",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630596.png",
+        "stats": {
+            "PTS": 18.2,
+            "REB": 9.0,
+            "AST": 3.6
+        }
+    },
+    {
+        "id": 1642367,
+        "nombre": "Jonathan Mogbo",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642367.png",
+        "stats": {
+            "PTS": 1.5,
+            "REB": 1.7,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1628370,
+        "nombre": "Malik Monk",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png",
+        "stats": {
+            "PTS": 12.5,
+            "REB": 1.9,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1630541,
+        "nombre": "Moses Moody",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630541.png",
+        "stats": {
+            "PTS": 12.1,
+            "REB": 3.3,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1631111,
+        "nombre": "Wendell Moore Jr.",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631111.png",
+        "stats": {
+            "PTS": 1.7,
+            "REB": 1.0,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1629630,
+        "nombre": "Ja Morant",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png",
+        "stats": {
+            "PTS": 19.4,
+            "REB": 3.2,
+            "AST": 8.1
+        }
+    },
+    {
+        "id": 1630530,
+        "nombre": "Trey Murphy III",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630530.png",
+        "stats": {
+            "PTS": 21.5,
+            "REB": 5.7,
+            "AST": 3.8
+        }
+    },
+    {
+        "id": 1627749,
+        "nombre": "Dejounte Murray",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
+        "stats": {
+            "PTS": 16.7,
+            "REB": 5.4,
+            "AST": 6.4
+        }
+    },
+    {
+        "id": 1627750,
+        "nombre": "Jamal Murray",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
+        "stats": {
+            "PTS": 25.4,
+            "REB": 4.4,
+            "AST": 7.1
+        }
+    },
+    {
+        "id": 1631099,
+        "nombre": "Keegan Murray",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631099.png",
+        "stats": {
+            "PTS": 14.0,
+            "REB": 5.7,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1631200,
+        "nombre": "Kris Murray",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631200.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 3.6,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642867,
+        "nombre": "Collin Murray-Boyles",
+        "equipo": "Toronto Raptors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642867.png",
+        "stats": {
+            "PTS": 8.5,
+            "REB": 5.0,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1629004,
+        "nombre": "Svi Mykhailiuk",
+        "equipo": "Utah Jazz",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png",
+        "stats": {
+            "PTS": 9.4,
+            "REB": 2.5,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1631250,
+        "nombre": "Pete Nance",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631250.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 2.7,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1626204,
+        "nombre": "Larry Nance Jr.",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 2.7,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629614,
+        "nombre": "Andrew Nembhard",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629614.png",
+        "stats": {
+            "PTS": 16.9,
+            "REB": 2.8,
+            "AST": 7.7
+        }
+    },
+    {
+        "id": 1642948,
+        "nombre": "Ryan Nembhard",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642948.png",
+        "stats": {
+            "PTS": 6.6,
+            "REB": 2.2,
+            "AST": 5.3
+        }
+    },
+    {
+        "id": 1630174,
+        "nombre": "Aaron Nesmith",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630174.png",
+        "stats": {
+            "PTS": 13.8,
+            "REB": 4.2,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1642854,
+        "nombre": "Asa Newell",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642854.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 2.2,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1627777,
+        "nombre": "Georges Niang",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png",
+        "stats": {
+            "PTS": 9.9,
+            "REB": 3.4,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642949,
+        "nombre": "Yanic Konan Niederhäuser",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642949.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 2.9,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1630192,
+        "nombre": "Zeke Nnaji",
+        "equipo": "Denver Nuggets",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630192.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 2.6,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 203994,
+        "nombre": "Jusuf Nurkić",
+        "equipo": "Utah Jazz",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png",
+        "stats": {
+            "PTS": 10.9,
+            "REB": 10.4,
+            "AST": 4.8
+        }
+    },
+    {
+        "id": 1626220,
+        "nombre": "Royce O'Neale",
+        "equipo": "Phoenix Suns",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png",
+        "stats": {
+            "PTS": 9.8,
+            "REB": 4.8,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1629006,
+        "nombre": "Josh Okogie",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 2.6,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1630168,
+        "nombre": "Onyeka Okongwu",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630168.png",
+        "stats": {
+            "PTS": 15.2,
+            "REB": 7.6,
+            "AST": 3.1
+        }
+    },
+    {
+        "id": 1630171,
+        "nombre": "Isaac Okoro",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630171.png",
+        "stats": {
+            "PTS": 9.3,
+            "REB": 2.7,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1642950,
+        "nombre": "Lachlan Olbrich",
+        "equipo": "Chicago Bulls",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642950.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 3.0,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 203482,
+        "nombre": "Kelly Olynyk",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png",
+        "stats": {
+            "PTS": 3.2,
+            "REB": 1.8,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1626162,
+        "nombre": "Kelly Oubre Jr.",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png",
+        "stats": {
+            "PTS": 14.1,
+            "REB": 5.0,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1627780,
+        "nombre": "Gary Payton II",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png",
+        "stats": {
+            "PTS": 7.5,
+            "REB": 3.6,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1642877,
+        "nombre": "Micah Peavy",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642877.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 1.9,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1642869,
+        "nombre": "Noah Penda",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642869.png",
+        "stats": {
+            "PTS": 3.8,
+            "REB": 3.2,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1643007,
+        "nombre": "Taelon Peter",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1643007.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 1.6,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1641763,
+        "nombre": "Julian Phillips",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641763.png",
+        "stats": {
+            "PTS": 2.9,
+            "REB": 1.0,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1629618,
+        "nombre": "Jalen Pickett",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629618.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 2.3,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1630590,
+        "nombre": "Scotty Pippen Jr.",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630590.png",
+        "stats": {
+            "PTS": 11.4,
+            "REB": 2.2,
+            "AST": 4.7
+        }
+    },
+    {
+        "id": 1631342,
+        "nombre": "Daeqwon Plowden",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631342.png",
+        "stats": {
+            "PTS": 10.8,
+            "REB": 3.0,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 203486,
+        "nombre": "Mason Plumlee",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
+        "stats": {
+            "PTS": 1.6,
+            "REB": 2.6,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1641764,
+        "nombre": "Brandin Podziemski",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641764.png",
+        "stats": {
+            "PTS": 13.8,
+            "REB": 5.1,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1627751,
+        "nombre": "Jakob Poeltl",
+        "equipo": "Toronto Raptors",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
+        "stats": {
+            "PTS": 10.7,
+            "REB": 7.0,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1629673,
+        "nombre": "Jordan Poole",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
+        "stats": {
+            "PTS": 13.4,
+            "REB": 2.0,
+            "AST": 3.1
+        }
+    },
+    {
+        "id": 1641854,
+        "nombre": "Craig Porter Jr.",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641854.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 3.4,
+            "AST": 3.2
+        }
+    },
+    {
+        "id": 1629645,
+        "nombre": "Kevin Porter Jr.",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png",
+        "stats": {
+            "PTS": 17.4,
+            "REB": 5.2,
+            "AST": 7.4
+        }
+    },
+    {
+        "id": 1629008,
+        "nombre": "Michael Porter Jr.",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
+        "stats": {
+            "PTS": 24.2,
+            "REB": 7.1,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1626171,
+        "nombre": "Bobby Portis",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png",
+        "stats": {
+            "PTS": 13.7,
+            "REB": 6.4,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 204001,
+        "nombre": "Kristaps Porziņģis",
+        "equipo": "Golden State Warriors",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png",
+        "stats": {
+            "PTS": 16.7,
+            "REB": 5.2,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1642366,
+        "nombre": "Quinten Post",
+        "equipo": "Golden State Warriors",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642366.png",
+        "stats": {
+            "PTS": 7.7,
+            "REB": 4.0,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642962,
+        "nombre": "Drake Powell",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642962.png",
+        "stats": {
+            "PTS": 6.5,
+            "REB": 1.8,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 203939,
+        "nombre": "Dwight Powell",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png",
+        "stats": {
+            "PTS": 3.3,
+            "REB": 4.1,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1626181,
+        "nombre": "Norman Powell",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
+        "stats": {
+            "PTS": 21.7,
+            "REB": 3.5,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1627752,
+        "nombre": "Taurean Prince",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 3.1,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1630202,
+        "nombre": "Payton Pritchard",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630202.png",
+        "stats": {
+            "PTS": 17.0,
+            "REB": 3.9,
+            "AST": 5.2
+        }
+    },
+    {
+        "id": 1642878,
+        "nombre": "Tyrese Proctor",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642878.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 1.3,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1641765,
+        "nombre": "Olivier-Maxence Prosper",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641765.png",
+        "stats": {
+            "PTS": 10.0,
+            "REB": 3.5,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1642852,
+        "nombre": "Derik Queen",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642852.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 7.1,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 1629674,
+        "nombre": "Neemias Queta",
+        "equipo": "Boston Celtics",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629674.png",
+        "stats": {
+            "PTS": 10.2,
+            "REB": 8.4,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 1630193,
+        "nombre": "Immanuel Quickley",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630193.png",
+        "stats": {
+            "PTS": 16.4,
+            "REB": 4.0,
+            "AST": 5.9
+        }
+    },
+    {
+        "id": 203944,
+        "nombre": "Julius Randle",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png",
+        "stats": {
+            "PTS": 21.1,
+            "REB": 6.7,
+            "AST": 5.0
+        }
+    },
+    {
+        "id": 1642875,
+        "nombre": "Maxime Raynaud",
+        "equipo": "Sacramento Kings",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642875.png",
+        "stats": {
+            "PTS": 12.5,
+            "REB": 7.5,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1630559,
+        "nombre": "Austin Reaves",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630559.png",
+        "stats": {
+            "PTS": 23.3,
+            "REB": 4.7,
+            "AST": 5.5
+        }
+    },
+    {
+        "id": 1630194,
+        "nombre": "Paul Reed",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630194.png",
+        "stats": {
+            "PTS": 7.8,
+            "REB": 4.5,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1641810,
+        "nombre": "Antonio Reeves",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641810.png",
+        "stats": {
+            "PTS": 2.7,
+            "REB": 0.8,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1629675,
+        "nombre": "Naz Reid",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629675.png",
+        "stats": {
+            "PTS": 13.6,
+            "REB": 6.2,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1642954,
+        "nombre": "Will Richard",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642954.png",
+        "stats": {
+            "PTS": 6.4,
+            "REB": 2.5,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1630208,
+        "nombre": "Nick Richards",
+        "equipo": "Chicago Bulls",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630208.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 5.1,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1642859,
+        "nombre": "Jase Richardson",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642859.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 1.2,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1642860,
+        "nombre": "Will Riley",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642860.png",
+        "stats": {
+            "PTS": 10.3,
+            "REB": 2.9,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1642258,
+        "nombre": "Zaccharie Risacher",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642258.png",
+        "stats": {
+            "PTS": 9.6,
+            "REB": 3.8,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1629130,
+        "nombre": "Duncan Robinson",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png",
+        "stats": {
+            "PTS": 12.2,
+            "REB": 2.7,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1629011,
+        "nombre": "Mitchell Robinson",
+        "equipo": "New York Knicks",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png",
+        "stats": {
+            "PTS": 5.7,
+            "REB": 8.8,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1631157,
+        "nombre": "Ryan Rollins",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631157.png",
+        "stats": {
+            "PTS": 17.3,
+            "REB": 4.6,
+            "AST": 5.6
+        }
+    },
+    {
+        "id": 1642050,
+        "nombre": "Jackson Rowe",
+        "equipo": "Golden State Warriors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642050.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 1.8,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1626179,
+        "nombre": "Terry Rozier",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png",
+        "stats": {
+            "PTS": 10.6,
+            "REB": 3.7,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1641712,
+        "nombre": "Rayan Rupert",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641712.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 2.9,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1626156,
+        "nombre": "D'Angelo Russell",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
+        "stats": {
+            "PTS": 10.2,
+            "REB": 2.3,
+            "AST": 4.0
+        }
+    },
+    {
+        "id": 1627734,
+        "nombre": "Domantas Sabonis",
+        "equipo": "Sacramento Kings",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png",
+        "stats": {
+            "PTS": 15.8,
+            "REB": 11.4,
+            "AST": 4.1
+        }
+    },
+    {
+        "id": 1642275,
+        "nombre": "Tidjane Salaün",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642275.png",
+        "stats": {
+            "PTS": 6.0,
+            "REB": 4.0,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1642920,
+        "nombre": "Kobe Sanders",
+        "equipo": "Los Angeles Clippers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642920.png",
+        "stats": {
+            "PTS": 7.3,
+            "REB": 2.2,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1630611,
+        "nombre": "Gui Santos",
+        "equipo": "Golden State Warriors",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630611.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 3.9,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1642879,
+        "nombre": "Ben Saraf",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642879.png",
+        "stats": {
+            "PTS": 7.5,
+            "REB": 2.1,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1642259,
+        "nombre": "Alex Sarr",
+        "equipo": "Washington Wizards",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642259.png",
+        "stats": {
+            "PTS": 16.3,
+            "REB": 7.4,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1631204,
+        "nombre": "Marcus Sasser",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631204.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 1.0,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1631248,
+        "nombre": "Baylor Scheierman",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631248.png",
+        "stats": {
+            "PTS": 5.5,
+            "REB": 3.5,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 203471,
+        "nombre": "Dennis Schröder",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png",
+        "stats": {
+            "PTS": 10.8,
+            "REB": 2.7,
+            "AST": 4.9
+        }
+    },
+    {
+        "id": 1630578,
+        "nombre": "Alperen Sengun",
+        "equipo": "Houston Rockets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png",
+        "stats": {
+            "PTS": 20.4,
+            "REB": 8.9,
+            "AST": 6.2
+        }
+    },
+    {
+        "id": 1641729,
+        "nombre": "Brice Sensabaugh",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641729.png",
+        "stats": {
+            "PTS": 14.9,
+            "REB": 3.1,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1629012,
+        "nombre": "Collin Sexton",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
+        "stats": {
+            "PTS": 15.4,
+            "REB": 2.3,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1629013,
+        "nombre": "Landry Shamet",
+        "equipo": "New York Knicks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png",
+        "stats": {
+            "PTS": 9.3,
+            "REB": 1.8,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1630545,
+        "nombre": "Terrence Shannon Jr.",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630545.png",
+        "stats": {
+            "PTS": 5.6,
+            "REB": 1.1,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1630549,
+        "nombre": "Day'Ron Sharpe",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630549.png",
+        "stats": {
+            "PTS": 8.7,
+            "REB": 6.7,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1631101,
+        "nombre": "Shaedon Sharpe",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631101.png",
+        "stats": {
+            "PTS": 20.8,
+            "REB": 4.3,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1642347,
+        "nombre": "Jamal Shead",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642347.png",
+        "stats": {
+            "PTS": 6.6,
+            "REB": 1.7,
+            "AST": 5.4
+        }
+    },
+    {
+        "id": 1641767,
+        "nombre": "Ben Sheppard",
+        "equipo": "Indiana Pacers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641767.png",
+        "stats": {
+            "PTS": 7.1,
+            "REB": 3.0,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1642263,
+        "nombre": "Reed Sheppard",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642263.png",
+        "stats": {
+            "PTS": 13.5,
+            "REB": 2.9,
+            "AST": 3.4
+        }
+    },
+    {
+        "id": 1642917,
+        "nombre": "Max Shulga",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642917.png",
+        "stats": {
+            "PTS": 0.6,
+            "REB": 0.5,
+            "AST": 0.2
+        }
+    },
+    {
+        "id": 1627783,
+        "nombre": "Pascal Siakam",
+        "equipo": "Indiana Pacers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
+        "stats": {
+            "PTS": 24.0,
+            "REB": 6.6,
+            "AST": 3.8
+        }
+    },
+    {
+        "id": 1629014,
+        "nombre": "Anfernee Simons",
+        "equipo": "Chicago Bulls",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png",
+        "stats": {
+            "PTS": 14.3,
+            "REB": 2.5,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1642354,
+        "nombre": "KJ Simpson",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642354.png",
+        "stats": {
+            "PTS": 4.5,
+            "REB": 1.9,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1630579,
+        "nombre": "Jericho Sims",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630579.png",
+        "stats": {
+            "PTS": 5.0,
+            "REB": 5.5,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1642914,
+        "nombre": "Javon Small",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642914.png",
+        "stats": {
+            "PTS": 9.7,
+            "REB": 3.1,
+            "AST": 3.7
+        }
+    },
+    {
+        "id": 203935,
+        "nombre": "Marcus Smart",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png",
+        "stats": {
+            "PTS": 9.3,
+            "REB": 2.8,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1630696,
+        "nombre": "Dru Smith",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630696.png",
+        "stats": {
+            "PTS": 5.6,
+            "REB": 2.5,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1630188,
+        "nombre": "Jalen Smith",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630188.png",
+        "stats": {
+            "PTS": 10.2,
+            "REB": 6.7,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1642449,
+        "nombre": "Tolu Smith",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642449.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 3.3,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1631095,
+        "nombre": "Jabari Smith Jr.",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631095.png",
+        "stats": {
+            "PTS": 15.8,
+            "REB": 6.9,
+            "AST": 1.9
+        }
+    },
+    {
+        "id": 1641733,
+        "nombre": "Nick Smith Jr.",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641733.png",
+        "stats": {
+            "PTS": 6.2,
+            "REB": 0.8,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1631110,
+        "nombre": "Jeremy Sochan",
+        "equipo": "New York Knicks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631110.png",
+        "stats": {
+            "PTS": 3.6,
+            "REB": 2.4,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642850,
+        "nombre": "Thomas Sorber",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642850.png",
+        "stats": {
+            "PTS": 0,
+            "REB": 0,
+            "AST": 0
+        }
+    },
+    {
+        "id": 1642285,
+        "nombre": "Cam Spencer",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642285.png",
+        "stats": {
+            "PTS": 11.1,
+            "REB": 2.5,
+            "AST": 5.6
+        }
+    },
+    {
+        "id": 1630311,
+        "nombre": "Pat Spencer",
+        "equipo": "Golden State Warriors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630311.png",
+        "stats": {
+            "PTS": 7.2,
+            "REB": 2.4,
+            "AST": 3.5
+        }
+    },
+    {
+        "id": 1641815,
+        "nombre": "Isaiah Stevens",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641815.png",
+        "stats": {
+            "PTS": 3.3,
+            "REB": 1.0,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1630191,
+        "nombre": "Isaiah Stewart",
+        "equipo": "Detroit Pistons",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630191.png",
+        "stats": {
+            "PTS": 10.0,
+            "REB": 5.0,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1631124,
+        "nombre": "Julian Strawther",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631124.png",
+        "stats": {
+            "PTS": 7.2,
+            "REB": 2.0,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1629622,
+        "nombre": "Max Strus",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629622.png",
+        "stats": {
+            "PTS": 11.2,
+            "REB": 5.4,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1630591,
+        "nombre": "Jalen Suggs",
+        "equipo": "Orlando Magic",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630591.png",
+        "stats": {
+            "PTS": 13.8,
+            "REB": 3.9,
+            "AST": 5.5
+        }
+    },
+    {
+        "id": 1630256,
+        "nombre": "Jae'Sean Tate",
+        "equipo": "Houston Rockets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630256.png",
+        "stats": {
+            "PTS": 2.8,
+            "REB": 1.6,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1628369,
+        "nombre": "Jayson Tatum",
+        "equipo": "Boston Celtics",
+        "posicion": "Forward-Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png",
+        "stats": {
+            "PTS": 21.8,
+            "REB": 10.0,
+            "AST": 5.3
+        }
+    },
+    {
+        "id": 202066,
+        "nombre": "Garrett Temple",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png",
+        "stats": {
+            "PTS": 0.8,
+            "REB": 0.4,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1631207,
+        "nombre": "Dalen Terry",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631207.png",
+        "stats": {
+            "PTS": 3.7,
+            "REB": 1.8,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1642876,
+        "nombre": "Adou Thiero",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642876.png",
+        "stats": {
+            "PTS": 1.9,
+            "REB": 1.1,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1641708,
+        "nombre": "Amen Thompson",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641708.png",
+        "stats": {
+            "PTS": 18.3,
+            "REB": 7.8,
+            "AST": 5.3
+        }
+    },
+    {
+        "id": 1641709,
+        "nombre": "Ausar Thompson",
+        "equipo": "Detroit Pistons",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641709.png",
+        "stats": {
+            "PTS": 9.9,
+            "REB": 5.7,
+            "AST": 3.1
+        }
+    },
+    {
+        "id": 202691,
+        "nombre": "Klay Thompson",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 2.1,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1629680,
+        "nombre": "Matisse Thybulle",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629680.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 2.0,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1630214,
+        "nombre": "Xavier Tillman",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630214.png",
+        "stats": {
+            "PTS": 1.5,
+            "REB": 1.4,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1641772,
+        "nombre": "Nae'Qwan Tomlin",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641772.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 2.9,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1642910,
+        "nombre": "John Tonje",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642910.png",
+        "stats": {
+            "PTS": 2.5,
+            "REB": 1.0,
+            "AST": 0.3
+        }
+    },
+    {
+        "id": 1642260,
+        "nombre": "Nikola Topić",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642260.png",
+        "stats": {
+            "PTS": 5.2,
+            "REB": 1.9,
+            "AST": 4.4
+        }
+    },
+    {
+        "id": 1630167,
+        "nombre": "Obi Toppin",
+        "equipo": "Indiana Pacers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630167.png",
+        "stats": {
+            "PTS": 11.6,
+            "REB": 4.4,
+            "AST": 2.3
+        }
+    },
+    {
+        "id": 1626157,
+        "nombre": "Karl-Anthony Towns",
+        "equipo": "New York Knicks",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png",
+        "stats": {
+            "PTS": 20.1,
+            "REB": 11.9,
+            "AST": 3.0
+        }
+    },
+    {
+        "id": 1642849,
+        "nombre": "Nolan Traore",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642849.png",
+        "stats": {
+            "PTS": 8.9,
+            "REB": 1.8,
+            "AST": 3.8
+        }
+    },
+    {
+        "id": 1629018,
+        "nombre": "Gary Trent Jr.",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png",
+        "stats": {
+            "PTS": 8.1,
+            "REB": 1.0,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1631131,
+        "nombre": "Oscar Tshiebwe",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631131.png",
+        "stats": {
+            "PTS": 7.8,
+            "REB": 6.6,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1626167,
+        "nombre": "Myles Turner",
+        "equipo": "Milwaukee Bucks",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png",
+        "stats": {
+            "PTS": 11.9,
+            "REB": 5.3,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1642281,
+        "nombre": "Jaylon Tyson",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642281.png",
+        "stats": {
+            "PTS": 13.2,
+            "REB": 5.1,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 202685,
+        "nombre": "Jonas Valančiūnas",
+        "equipo": "Denver Nuggets",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
+        "stats": {
+            "PTS": 8.7,
+            "REB": 5.1,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1627832,
+        "nombre": "Fred VanVleet",
+        "equipo": "Houston Rockets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
+        "stats": {
+            "PTS": 14.1,
+            "REB": 3.7,
+            "AST": 5.5
+        }
+    },
+    {
+        "id": 1629020,
+        "nombre": "Jarred Vanderbilt",
+        "equipo": "Los Angeles Lakers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 4.5,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1630170,
+        "nombre": "Devin Vassell",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630170.png",
+        "stats": {
+            "PTS": 13.9,
+            "REB": 4.0,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1629216,
+        "nombre": "Gabe Vincent",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629216.png",
+        "stats": {
+            "PTS": 4.4,
+            "REB": 1.0,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1641774,
+        "nombre": "Tristan Vukcevic",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641774.png",
+        "stats": {
+            "PTS": 9.0,
+            "REB": 3.0,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 202696,
+        "nombre": "Nikola Vučević",
+        "equipo": "Boston Celtics",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png",
+        "stats": {
+            "PTS": 15.1,
+            "REB": 8.4,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1629731,
+        "nombre": "Dean Wade",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629731.png",
+        "stats": {
+            "PTS": 5.8,
+            "REB": 4.2,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630532,
+        "nombre": "Franz Wagner",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630532.png",
+        "stats": {
+            "PTS": 20.6,
+            "REB": 5.2,
+            "AST": 3.3
+        }
+    },
+    {
+        "id": 1629021,
+        "nombre": "Moritz Wagner",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png",
+        "stats": {
+            "PTS": 6.9,
+            "REB": 3.2,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1631133,
+        "nombre": "Jabari Walker",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631133.png",
+        "stats": {
+            "PTS": 4.3,
+            "REB": 3.0,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1641716,
+        "nombre": "Jarace Walker",
+        "equipo": "Indiana Pacers",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641716.png",
+        "stats": {
+            "PTS": 11.6,
+            "REB": 5.1,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1641717,
+        "nombre": "Cason Wallace",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641717.png",
+        "stats": {
+            "PTS": 8.6,
+            "REB": 3.1,
+            "AST": 2.6
+        }
+    },
+    {
+        "id": 1630811,
+        "nombre": "Keaton Wallace",
+        "equipo": "Atlanta Hawks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630811.png",
+        "stats": {
+            "PTS": 3.5,
+            "REB": 1.1,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1641775,
+        "nombre": "Jordan Walsh",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641775.png",
+        "stats": {
+            "PTS": 5.4,
+            "REB": 4.0,
+            "AST": 0.8
+        }
+    },
+    {
+        "id": 1642266,
+        "nombre": "Ja'Kobe Walter",
+        "equipo": "Toronto Raptors",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642266.png",
+        "stats": {
+            "PTS": 7.5,
+            "REB": 2.6,
+            "AST": 1.2
+        }
+    },
+    {
+        "id": 1642276,
+        "nombre": "Kel'el Ware",
+        "equipo": "Miami Heat",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642276.png",
+        "stats": {
+            "PTS": 11.1,
+            "REB": 9.0,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1629023,
+        "nombre": "P.J. Washington",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png",
+        "stats": {
+            "PTS": 14.2,
+            "REB": 7.0,
+            "AST": 1.8
+        }
+    },
+    {
+        "id": 1630322,
+        "nombre": "Lindy Waters III",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630322.png",
+        "stats": {
+            "PTS": 2.4,
+            "REB": 0.7,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1630570,
+        "nombre": "Trendon Watford",
+        "equipo": "Philadelphia 76ers",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630570.png",
+        "stats": {
+            "PTS": 6.5,
+            "REB": 3.3,
+            "AST": 2.5
+        }
+    },
+    {
+        "id": 1642364,
+        "nombre": "Jamir Watkins",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642364.png",
+        "stats": {
+            "PTS": 7.4,
+            "REB": 3.9,
+            "AST": 1.3
+        }
+    },
+    {
+        "id": 1631212,
+        "nombre": "Peyton Watson",
+        "equipo": "Denver Nuggets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631212.png",
+        "stats": {
+            "PTS": 14.6,
+            "REB": 4.9,
+            "AST": 2.1
+        }
+    },
+    {
+        "id": 1642377,
+        "nombre": "Jaylen Wells",
+        "equipo": "Memphis Grizzlies",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642377.png",
+        "stats": {
+            "PTS": 12.5,
+            "REB": 3.2,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1641705,
+        "nombre": "Victor Wembanyama",
+        "equipo": "San Antonio Spurs",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641705.png",
+        "stats": {
+            "PTS": 25.0,
+            "REB": 11.5,
+            "AST": 3.1
+        }
+    },
+    {
+        "id": 1631104,
+        "nombre": "Blake Wesley",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631104.png",
+        "stats": {
+            "PTS": 4.8,
+            "REB": 1.3,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 201566,
+        "nombre": "Russell Westbrook",
+        "equipo": "Sacramento Kings",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png",
+        "stats": {
+            "PTS": 15.2,
+            "REB": 5.4,
+            "AST": 6.7
+        }
+    },
+    {
+        "id": 1629632,
+        "nombre": "Coby White",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png",
+        "stats": {
+            "PTS": 17.4,
+            "REB": 3.4,
+            "AST": 4.0
+        }
+    },
+    {
+        "id": 1628401,
+        "nombre": "Derrick White",
+        "equipo": "Boston Celtics",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
+        "stats": {
+            "PTS": 16.5,
+            "REB": 4.4,
+            "AST": 5.4
+        }
+    },
+    {
+        "id": 1641715,
+        "nombre": "Cam Whitmore",
+        "equipo": "Washington Wizards",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641715.png",
+        "stats": {
+            "PTS": 9.2,
+            "REB": 2.8,
+            "AST": 0.7
+        }
+    },
+    {
+        "id": 1630598,
+        "nombre": "Aaron Wiggins",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630598.png",
+        "stats": {
+            "PTS": 9.4,
+            "REB": 3.1,
+            "AST": 1.7
+        }
+    },
+    {
+        "id": 203952,
+        "nombre": "Andrew Wiggins",
+        "equipo": "Miami Heat",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
+        "stats": {
+            "PTS": 15.4,
+            "REB": 4.8,
+            "AST": 2.7
+        }
+    },
+    {
+        "id": 1642873,
+        "nombre": "Amari Williams",
+        "equipo": "Boston Celtics",
+        "posicion": "Forward-Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642873.png",
+        "stats": {
+            "PTS": 1.4,
+            "REB": 1.8,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1630314,
+        "nombre": "Brandon Williams",
+        "equipo": "Dallas Mavericks",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630314.png",
+        "stats": {
+            "PTS": 13.0,
+            "REB": 2.9,
+            "AST": 3.9
+        }
+    },
+    {
+        "id": 1642262,
+        "nombre": "Cody Williams",
+        "equipo": "Utah Jazz",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642262.png",
+        "stats": {
+            "PTS": 8.8,
+            "REB": 3.0,
+            "AST": 2.0
+        }
+    },
+    {
+        "id": 1629684,
+        "nombre": "Grant Williams",
+        "equipo": "Charlotte Hornets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629684.png",
+        "stats": {
+            "PTS": 7.0,
+            "REB": 3.9,
+            "AST": 1.6
+        }
+    },
+    {
+        "id": 1631114,
+        "nombre": "Jalen Williams",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631114.png",
+        "stats": {
+            "PTS": 17.1,
+            "REB": 4.6,
+            "AST": 5.5
+        }
+    },
+    {
+        "id": 1631119,
+        "nombre": "Jaylin Williams",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631119.png",
+        "stats": {
+            "PTS": 7.2,
+            "REB": 5.5,
+            "AST": 2.4
+        }
+    },
+    {
+        "id": 1629026,
+        "nombre": "Kenrich Williams",
+        "equipo": "Oklahoma City Thunder",
+        "posicion": "Guard-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png",
+        "stats": {
+            "PTS": 6.5,
+            "REB": 3.3,
+            "AST": 1.4
+        }
+    },
+    {
+        "id": 1631109,
+        "nombre": "Mark Williams",
+        "equipo": "Phoenix Suns",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631109.png",
+        "stats": {
+            "PTS": 11.7,
+            "REB": 8.0,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1630172,
+        "nombre": "Patrick Williams",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630172.png",
+        "stats": {
+            "PTS": 7.0,
+            "REB": 3.0,
+            "AST": 1.5
+        }
+    },
+    {
+        "id": 1630533,
+        "nombre": "Ziaire Williams",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630533.png",
+        "stats": {
+            "PTS": 10.2,
+            "REB": 2.4,
+            "AST": 1.1
+        }
+    },
+    {
+        "id": 1629057,
+        "nombre": "Robert Williams III",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Center-Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png",
+        "stats": {
+            "PTS": 6.7,
+            "REB": 7.0,
+            "AST": 1.0
+        }
+    },
+    {
+        "id": 1629627,
+        "nombre": "Zion Williamson",
+        "equipo": "New Orleans Pelicans",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
+        "stats": {
+            "PTS": 21.0,
+            "REB": 5.7,
+            "AST": 3.2
+        }
+    },
+    {
+        "id": 1630592,
+        "nombre": "Jalen Wilson",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630592.png",
+        "stats": {
+            "PTS": 6.4,
+            "REB": 2.1,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642874,
+        "nombre": "Danny Wolf",
+        "equipo": "Brooklyn Nets",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642874.png",
+        "stats": {
+            "PTS": 8.9,
+            "REB": 4.9,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1627824,
+        "nombre": "Guerschon Yabusele",
+        "equipo": "Chicago Bulls",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627824.png",
+        "stats": {
+            "PTS": 5.6,
+            "REB": 3.5,
+            "AST": 0.9
+        }
+    },
+    {
+        "id": 1642905,
+        "nombre": "Yang Hansen",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642905.png",
+        "stats": {
+            "PTS": 2.2,
+            "REB": 1.5,
+            "AST": 0.5
+        }
+    },
+    {
+        "id": 1642443,
+        "nombre": "Jahmir Young",
+        "equipo": "Miami Heat",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642443.png",
+        "stats": {
+            "PTS": 1.8,
+            "REB": 0.3,
+            "AST": 0.6
+        }
+    },
+    {
+        "id": 1629027,
+        "nombre": "Trae Young",
+        "equipo": "Washington Wizards",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+        "stats": {
+            "PTS": 17.9,
+            "REB": 2.0,
+            "AST": 8.0
+        }
+    },
+    {
+        "id": 1642959,
+        "nombre": "Chris Youngblood",
+        "equipo": "Portland Trail Blazers",
+        "posicion": "Guard",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642959.png",
+        "stats": {
+            "PTS": 2.1,
+            "REB": 0.8,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1642911,
+        "nombre": "Rocco Zikarsky",
+        "equipo": "Minnesota Timberwolves",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642911.png",
+        "stats": {
+            "PTS": 2.8,
+            "REB": 2.8,
+            "AST": 0.4
+        }
+    },
+    {
+        "id": 1627826,
+        "nombre": "Ivica Zubac",
+        "equipo": "Indiana Pacers",
+        "posicion": "Center",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
+        "stats": {
+            "PTS": 14.1,
+            "REB": 10.6,
+            "AST": 2.2
+        }
+    },
+    {
+        "id": 1641783,
+        "nombre": "Tristan da Silva",
+        "equipo": "Orlando Magic",
+        "posicion": "Forward",
+        "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641783.png",
+        "stats": {
+            "PTS": 9.9,
+            "REB": 3.7,
+            "AST": 1.6
+        }
+    }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Roster Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-white min-h-screen flex flex-col items-center justify-between p-4 native-mobile">
+
+    <header class="w-full max-w-md flex justify-between items-center py-2 border-b border-slate-700">
+        <h1 class="text-xl font-bold tracking-wider text-orange-500">NBA QUIZ</h1>
+        <div class="text-sm bg-slate-800 px-3 py-1 rounded-full">
+            Racha: <span id="racha" class="font-bold text-green-400">0</span>
+        </div>
+    </header>
+
+    <main class="w-full max-w-md flex flex-col items-center my-auto space-y-6">
+        
+        <div class="bg-slate-800 rounded-2xl p-6 w-full shadow-2xl border border-slate-700 flex flex-col items-center min-h-[320px] justify-center">
+            <img id="jugador-foto" src="https://via.placeholder.com/260x190?text=Cargando..." alt="Jugador" class="w-48 h-auto object-contain drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)] mb-4">
+            <h2 id="jugador-nombre" class="text-2xl font-black text-center tracking-wide">Cargando jugador...</h2>
+            
+            <div id="stats-contenedor" class="hidden mt-4 w-full grid grid-cols-4 gap-2 text-center bg-slate-900 p-3 rounded-xl text-xs">
+                <div><p class="text-slate-400">POS</p><p id="stat-pos" class="font-bold text-sm text-orange-400">-</p></div>
+                <div><p class="text-slate-400">PTS</p><p id="stat-pts" class="font-bold text-sm">-</p></div>
+                <div><p class="text-slate-400">REB</p><p id="stat-reb" class="font-bold text-sm">-</p></div>
+                <div><p class="text-slate-400">AST</p><p id="stat-ast" class="font-bold text-sm">-</p></div>
+            </div>
+        </div>
+
+        <div id="opciones-container" class="w-full grid grid-cols-2 gap-3">
+            </div>
+
+        <button id="btn-siguiente" class="hidden w-full bg-orange-500 hover:bg-orange-600 active:scale-95 transition text-white font-bold py-3 rounded-xl shadow-lg">
+            Siguiente Jugador →
+        </button>
+    </main>
+
+    <footer class="text-xs text-slate-500 py-2">
+        Plantillas actualizadas automáticamente
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
