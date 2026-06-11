@@ -34,6 +34,10 @@ function siguientePregunta() {
     document.getElementById('stats-contenedor').classList.add('hidden');
     document.getElementById('btn-siguiente').classList.add('hidden');
     
+    // Resetear el texto de la temporada y posición para el nuevo jugador
+    document.getElementById('jugador-temporada').innerText = "—";
+    document.getElementById('jugador-posicion').innerText = "-";
+    
     // Elegir jugador aleatorio
     jugadorActual = jugadores[Math.floor(Math.random() * jugadores.length)];
     
@@ -89,11 +93,30 @@ function verificarRespuesta(botonSeleccionado, equipoSeleccionado) {
     // Actualizar marcador de racha
     document.getElementById('racha').innerText = rachaActual;
     
+    // Mostrar la temporada de los datos en el elemento HTML
+    if (jugadorActual.temporada) {
+        document.getElementById('jugador-temporada').innerText = `STATS TEMP. ${jugadorActual.temporada}`;
+    } else {
+        document.getElementById('jugador-temporada').innerText = "STATS DISPONIBLES";
+    }
+    
     // Mostrar estadísticas del jugador
-    document.getElementById('stat-pos').innerText = jugadorActual.posicion;
+    document.getElementById('jugador-posicion').innerText = jugadorActual.posicion;
+    document.getElementById('jugador-edad').innerText = jugadorActual.edad ? `${jugadorActual.edad} años` : '';
+    document.getElementById('stat-gp').innerText = jugadorActual.partidos_jugados;
+    document.getElementById('stat-min').innerText = jugadorActual.stats.MIN;
     document.getElementById('stat-pts').innerText = jugadorActual.stats.PTS;
-    document.getElementById('stat-reb').innerText = jugadorActual.stats.REB;
     document.getElementById('stat-ast').innerText = jugadorActual.stats.AST;
+    document.getElementById('stat-reb').innerText = jugadorActual.stats.REB;
+    // Nuevas estadísticas: robos, tapones, pérdidas y porcentajes
+    document.getElementById('stat-stl').innerText = jugadorActual.stats.STL !== undefined ? jugadorActual.stats.STL : '-';
+    document.getElementById('stat-blk').innerText = jugadorActual.stats.BLK !== undefined ? jugadorActual.stats.BLK : '-';
+    document.getElementById('stat-tov').innerText = jugadorActual.stats.TOV !== undefined ? jugadorActual.stats.TOV : '-';
+    // Porcentajes: añadimos sufijo % si vienen como número
+    const fmtPct = v => (v === undefined || v === null || v === 0) ? (v === 0 ? '0%' : '-') : (String(v).includes('%') ? v : `${v}%`);
+    document.getElementById('stat-fg3').innerText = fmtPct(jugadorActual.stats.FG3_PCT);
+    document.getElementById('stat-fg').innerText = fmtPct(jugadorActual.stats.FG_PCT);
+    document.getElementById('stat-ft').innerText = fmtPct(jugadorActual.stats.FT_PCT);
     document.getElementById('stats-contenedor').classList.remove('hidden');
     
     // Mostrar botón de siguiente

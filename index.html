@@ -19,18 +19,42 @@
         
         <div class="bg-slate-800 rounded-2xl p-6 w-full shadow-2xl border border-slate-700 flex flex-col items-center min-h-[320px] justify-center">
             <img id="jugador-foto" src="https://via.placeholder.com/260x190?text=Cargando..." alt="Jugador" class="w-48 h-auto object-contain drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)] mb-4">
-            <h2 id="jugador-nombre" class="text-2xl font-black text-center tracking-wide">Cargando jugador...</h2>
             
-            <div id="stats-contenedor" class="hidden mt-4 w-full grid grid-cols-4 gap-2 text-center bg-slate-900 p-3 rounded-xl text-xs">
-                <div><p class="text-slate-400">POS</p><p id="stat-pos" class="font-bold text-sm text-orange-400">-</p></div>
-                <div><p class="text-slate-400">PTS</p><p id="stat-pts" class="font-bold text-sm">-</p></div>
-                <div><p class="text-slate-400">REB</p><p id="stat-reb" class="font-bold text-sm">-</p></div>
-                <div><p class="text-slate-400">AST</p><p id="stat-ast" class="font-bold text-sm">-</p></div>
+            <div class="text-center mb-1">
+                <span id="jugador-temporada" class="text-[10px] font-bold text-orange-400 tracking-widest uppercase bg-slate-900/60 px-2.5 py-0.5 rounded-full inline-block mb-1 border border-slate-700">
+                    —
+                </span>
+                <h2 id="jugador-nombre" class="text-2xl font-black tracking-wide">Cargando jugador...</h2>
+                <p id="jugador-posicion" class="text-sm text-slate-400 mt-1">-</p>
+                <p id="jugador-edad" class="text-xs text-slate-400 mt-1"> </p>
+            </div>
+            <div id="stats-contenedor" class="hidden mt-4 w-full grid gap-x-2 gap-y-1 text-center bg-slate-900 p-2 rounded-xl text-xs">
+                <div class="grid grid-cols-6 gap-2">
+                    <div></div>
+                    <div></div>
+                    <div><p class="text-slate-400">GP</p><p id="stat-gp" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">MIN</p><p id="stat-min" class="font-bold text-sm">-</p></div>
+                    <div></div>
+                    <div></div>
+                </div>
+                <div class="grid grid-cols-6 gap-2">
+                    <div><p class="text-slate-400">PTS</p><p id="stat-pts" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">AST</p><p id="stat-ast" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">REB</p><p id="stat-reb" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">STL</p><p id="stat-stl" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">BLK</p><p id="stat-blk" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">TOV</p><p id="stat-tov" class="font-bold text-sm">-</p></div>
+                </div>
+                <div class="grid grid-cols-3 gap-2">
+                    <div><p class="text-slate-400">FG%</p><p id="stat-fg" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">3P%</p><p id="stat-fg3" class="font-bold text-sm">-</p></div>
+                    <div><p class="text-slate-400">FT%</p><p id="stat-ft" class="font-bold text-sm">-</p></div>
+                </div>
             </div>
         </div>
 
         <div id="opciones-container" class="w-full grid grid-cols-2 gap-3">
-            </div>
+        </div>
 
         <button id="btn-siguiente" class="hidden w-full bg-orange-500 hover:bg-orange-600 active:scale-95 transition text-white font-bold py-3 rounded-xl shadow-lg">
             Siguiente Jugador →
